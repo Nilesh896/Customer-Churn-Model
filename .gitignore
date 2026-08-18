@@ -7,8 +7,3 @@ __pycache__/
 .venv/
 venv/
 env/
-*.pkl
-outputs/figures/*.png
-outputs/results/*.csv
-data/raw/*.csv
-data/processed/*.csv
