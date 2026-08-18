@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.streamlit/
+.venv/
+venv/
+env/
+*.pkl
+outputs/figures/*.png
+outputs/results/*.csv
+data/raw/*.csv
+data/processed/*.csv
